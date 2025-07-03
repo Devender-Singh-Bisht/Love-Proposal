@@ -13,7 +13,7 @@ yes_btn.addEventListener("click", () => {
 
 no_btn.addEventListener("mouseover", () => {
     let left = getRandomnumber(0, 100);
-    let top = getRandomnumber(50, 100);
+    let top = getRandomnumber(0, 100);
 
     no_btn.style.left = `${left}%`;
     no_btn.style.top = `${top}%`;
