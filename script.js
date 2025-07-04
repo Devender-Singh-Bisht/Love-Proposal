@@ -13,9 +13,9 @@ yes_btn.addEventListener("click", () => {
 no_btn.addEventListener("mouseover", () => {
     const x = getRandomnumber(-300, 300);
     const y = getRandomnumber(-300, 300);
+    
     no_btn.style.transform = `translate(${x}%, ${y}%)`;
-});
-
+})
 
 
 function getRandomnumber(min, max) {
