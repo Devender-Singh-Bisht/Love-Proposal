@@ -1,6 +1,6 @@
 # Love Proposal
 
-It is a love proposal of my type.
+It is a unrejectable love proposal.
 Created it just for fun.
 
 ## 🔗 Live Preview
